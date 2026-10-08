@@ -294,6 +294,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 |-------------|------------------|-----------|
 | [Agno (Formerly Phidata)](https://www.agno.com/) | An open-source platform to build, ship and monitor agentic systems. | [Documentation](https://docs.agno.com/) \| [GitHub](https://github.com/agno-agi/agno) |
 | [Composio](https://composio.dev/) | Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). | [Documentation](https://docs.composio.dev/) \| [GitHub](https://github.com/ComposioHQ/composio) |
+| [Scalekit](https://www.scalekit.com/agentkit) | Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools. | [Documentation](https://docs.scalekit.com/agentkit/quickstart/) \| [GitHub](https://github.com/scalekit-inc) |
 
 ## LLM Memory
 
