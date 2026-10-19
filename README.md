@@ -26,6 +26,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 ## Table of Contents
 
 - [Awesome Generative AI Data Scientist ](#awesome-generative-ai-data-scientist-)
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
   - [🚀🚀 100+ Free Resources On Generative AI for Data Scientists](#-100-free-resources-on-generative-ai-for-data-scientists)
   - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
