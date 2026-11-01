@@ -313,6 +313,9 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [LLMOps](https://github.com/callmesora/llmops-python-package) | Best practices designed to support your LLMOps initiatives. | [GitHub](https://github.com/callmesora/llmops-python-package) |
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
 | [Helicone](https://www.helicone.ai/) | Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. | [Documentation](https://docs.helicone.ai/) \| [GitHub](https://github.com/Helicone/helicone) |
 
 ## Code Sandbox (Security)
