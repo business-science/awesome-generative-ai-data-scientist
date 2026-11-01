@@ -316,6 +316,9 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 | [Helicone](https://www.helicone.ai/) | Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. | [Documentation](https://docs.helicone.ai/) \| [GitHub](https://github.com/Helicone/helicone) |
 
 ## Code Sandbox (Security)
