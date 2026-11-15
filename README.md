@@ -101,6 +101,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/) | Probably the best curated list of data science software in Python. | [GitHub](https://github.com/krzjoa/awesome-python-data-science) |
 | [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning | [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) |
 | [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | A list of AI autonomous agents | [GitHub](https://github.com/e2b-dev/awesome-ai-agents) |
+| [No Stairs Please](https://nostairsplease.com/) | Live-music venue directory and hosted MCP server (`https://nostairsplease.com/mcp`) for touring musicians and AI agents | [MCP](https://nostairsplease.com/mcp) |
 
 ## Data Science And AI Agents
 
